@@ -1,6 +1,7 @@
-# 🌍 GlobalBite: AI Restaurant & Menu Recommender
+# 🌍 AI Restaurant & Menu Recommender
 
-Welcome to **GlobalBite**, an AI-powered Streamlit web app that recommends restaurants and food items based on the selected country. Whether you're a traveler seeking local cuisine or a foodie exploring global flavors, GlobalBite is your smart companion to discovering delicious dishes and must-visit eateries worldwide.
+Its an AI-powered Streamlit web app that recommends restaurants and food items based on the selected country. Whether you're a traveler seeking local cuisine or a foodie exploring global flavors, GlobalBite is your smart companion to discovering delicious dishes and must-visit eateries worldwide.
+![alt](https://github.com/shadatshohan/shadatshohan-AI-Restaurant-Menu-Recommender/blob/1af1a4cf58b7b913785a8960f30286a5bb152354/restaurent_recommender.png)
 
 ---
 
